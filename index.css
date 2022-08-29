@@ -1,0 +1,55 @@
+body{
+    background-color: #818188;
+    background-image: linear-gradient(to right top ,#CEDCF0,#B6A4E9);
+}
+
+.c1{
+    background-color:aliceblue;
+    padding: 20px 5px;
+    margin: 20px 0px;
+    
+}
+.fa{
+    color: rebeccapurple ;
+}
+a {
+    border-bottom: 1px solid blue;
+}
+p{
+    font-size: 12px ;
+}
+.box{
+    padding: 30px 0px;
+}
+.c2{
+    background-color: aliceblue;
+    padding: 20px 5px;
+    margin: 20px 0px;
+    height: 203px;
+    
+}
+.c3{
+    background-color: aliceblue;
+    padding: 20px 5px;
+    margin: 20px 0px;
+    
+}
+.c4{
+    background-color: aliceblue;
+    padding: 20px 5px;
+    margin: 20px 0px;
+    height: 203px;
+    
+}
+.c5{
+    background-color: aliceblue;
+    padding: 20px 5px;
+    margin: 20px 0px;
+    
+}
+.c6{
+    background-color: aliceblue;
+    padding: 20px 5px;
+    margin: 20px 0px;
+    
+}
